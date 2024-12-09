@@ -1,0 +1,24 @@
+* {
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.list.frontpage {
+    font-size: 24px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+.image.frontpage {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+
+
+h1 {
+    background-color: #799bd1;
+    text-align: center;
+}
