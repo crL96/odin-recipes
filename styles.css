@@ -1,16 +1,18 @@
 * {
     background-color: white;
     font-family: 'Times New Roman', Times, serif;
+    /* border: 2px solid black; */
+    box-sizing: border-box;
 }
 
 .list.frontpage {
     font-size: 24px;
-    list-style-position: inside;
-    text-align: center;
+    width: 600px;
+    margin: 0 auto;
 }
 
-.image.frontpage {
-    width: 500px;
+.image {
+    width: 800px;
     height: auto;
     display: block;
     margin: auto;
@@ -21,4 +23,9 @@
 h1 {
     background-color: #799bd1;
     text-align: center;
+}
+
+.contents {
+    width: 800px;
+    margin: 0 auto;
 }
